@@ -1,10 +1,10 @@
-# Séminaire 02 - css
+# Séminaire 03 - aventure perso
 
 [Emilie Wermelinger]
 
 ## Temps passé
 
-| Tâche        | Temps passé | Commentaire                    |
+| Tâche        | Temps passé | Commentaire                    |temps réel
 | ------------ | ----------- | ------------------------------ |
 | HTML         | 40m         |                                |
 | Css          | 30m         |                                |
