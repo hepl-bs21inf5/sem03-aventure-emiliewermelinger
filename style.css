@@ -1,0 +1,22 @@
+body {
+    background-color: #a086b7;
+    color: #6324d9;
+    font-family: georgia;
+  }
+  p {
+    font-size: 20px;
+  }
+  h1 {
+    color :#d226a1;
+  }
+  a { 
+    color :#e430a8;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  a:hover {
+    color : #e17e27;
+  }
+ul {
+  list-style-type: square;
+}
